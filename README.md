@@ -1,2 +1,2 @@
 # FMP
-College final project
+College final project - NEVER submit .log files
